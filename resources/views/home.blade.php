@@ -9,7 +9,7 @@
 <table class="table">
   <thead>
     <tr>
-    <th scope="col">#ID</th>
+    <th scope="col">#IDs</th>
       <th scope="col">categories </th>
       <th scope="col">item </th>
       <th scope="col">variance </th>
